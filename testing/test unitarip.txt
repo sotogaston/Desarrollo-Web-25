@@ -1,3 +1,6 @@
 caso de prueba nro 1 unitario desarrollo
 
 caso de prueba nro 2 unitario desarrollo
+
+nuevo caso de prueba nro 3 
+resultado obtenido: ok 
